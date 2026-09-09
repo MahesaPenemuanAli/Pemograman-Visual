@@ -33,8 +33,8 @@ Public Class FrmLogin
             Return
         End If
 
-        Dim isStaff As Boolean = (role = "Staff" AndAlso nama.ToLower() = "nadya" AndAlso nim = "241712051")
-        Dim isManager As Boolean = (role = "Manager" AndAlso nama.ToLower() = "shata diyaul haq" AndAlso nim = "241712061")
+        Dim isStaff As Boolean = (role = "Staff" AndAlso nama.ToLower() = "risky" AndAlso nim = "241712056")
+        Dim isManager As Boolean = (role = "Manager" AndAlso nama.ToLower() = "mahesa penemuan ali" AndAlso nim = "241712064")
 
         If isStaff OrElse isManager Then
             MessageBox.Show("Login berhasil! Selamat datang, " & nama, "Sukses", MessageBoxButtons.OK, MessageBoxIcon.Information)
