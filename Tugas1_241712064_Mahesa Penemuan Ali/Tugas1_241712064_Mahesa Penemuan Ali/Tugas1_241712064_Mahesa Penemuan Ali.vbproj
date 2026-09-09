@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net10.0-windows</TargetFramework>
-    <RootNamespace>Tugas1_241712064_Mahesa_Penemuan_Ali</RootNamespace>
+    <RootNamespace>form_login</RootNamespace>
     <StartupObject>Sub Main</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
@@ -16,6 +16,20 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Update="FrmPajak.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPajak.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FrmPajak.vb</DependentUpon>
+    </Compile>
     <Compile Update="My Project\Application.Designer.vb">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -24,6 +38,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="assets\maneger.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\staff.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -31,7 +51,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="assets\" />
+    <Content Include="assets\*.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

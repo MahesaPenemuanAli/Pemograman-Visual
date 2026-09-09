@@ -1,8 +1,7 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
+<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class FrmLogin
     Inherits System.Windows.Forms.Form
 
-    'Form overrides dispose to clean up the component list.
     <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(disposing As Boolean)
         Try
@@ -14,106 +13,120 @@ Partial Class FrmLogin
         End Try
     End Sub
 
-    'Required by the Windows Form Designer
     Private components As System.ComponentModel.IContainer
+    Friend WithEvents picImage As PictureBox
+    Friend WithEvents cmbRole As ComboBox
+    Friend WithEvents txtNama As TextBox
+    Friend WithEvents txtNIM As TextBox
+    Friend WithEvents btnLogin As Button
+    Friend WithEvents lblRole As Label
+    Friend WithEvents lblNama As Label
+    Friend WithEvents lblNIM As Label
 
-    'NOTE: The following procedure is required by the Windows Form Designer
-    'It can be modified using the Windows Form Designer.
-    'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        PictureBox1 = New PictureBox()
-        ComboBox1 = New ComboBox()
-        TextBox1 = New TextBox()
-        TextBox2 = New TextBox()
-        Label1 = New Label()
-        Label2 = New Label()
-        Label3 = New Label()
-        CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
+        picImage = New PictureBox()
+        cmbRole = New ComboBox()
+        txtNama = New TextBox()
+        txtNIM = New TextBox()
+        btnLogin = New Button()
+        lblRole = New Label()
+        lblNama = New Label()
+        lblNIM = New Label()
+        CType(picImage, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
-        ' PictureBox1
+        ' picImage
         ' 
-        PictureBox1.Location = New Point(235, 12)
-        PictureBox1.Name = "PictureBox1"
-        PictureBox1.Size = New Size(121, 98)
-        PictureBox1.TabIndex = 0
-        PictureBox1.TabStop = False
+        picImage.BackColor = Color.White
+        picImage.Location = New Point(130, 20)
+        picImage.Name = "picImage"
+        picImage.Size = New Size(100, 100)
+        picImage.SizeMode = PictureBoxSizeMode.Zoom
+        picImage.TabIndex = 7
+        picImage.TabStop = False
         ' 
-        ' ComboBox1
+        ' cmbRole
         ' 
-        ComboBox1.FormattingEnabled = True
-        ComboBox1.Location = New Point(208, 152)
-        ComboBox1.Name = "ComboBox1"
-        ComboBox1.Size = New Size(182, 33)
-        ComboBox1.TabIndex = 1
+        cmbRole.DropDownStyle = ComboBoxStyle.DropDownList
+        cmbRole.FormattingEnabled = True
+        cmbRole.Items.AddRange(New Object() {"Staff", "Manager"})
+        cmbRole.Location = New Point(130, 151)
+        cmbRole.Name = "cmbRole"
+        cmbRole.Size = New Size(170, 33)
+        cmbRole.TabIndex = 1
         ' 
-        ' TextBox1
+        ' txtNama
         ' 
-        TextBox1.Location = New Point(208, 201)
-        TextBox1.Name = "TextBox1"
-        TextBox1.Size = New Size(182, 31)
-        TextBox1.TabIndex = 2
+        txtNama.Location = New Point(130, 196)
+        txtNama.Name = "txtNama"
+        txtNama.Size = New Size(170, 31)
+        txtNama.TabIndex = 3
         ' 
-        ' TextBox2
+        ' txtNIM
         ' 
-        TextBox2.Location = New Point(209, 252)
-        TextBox2.Name = "TextBox2"
-        TextBox2.Size = New Size(181, 31)
-        TextBox2.TabIndex = 3
+        txtNIM.Location = New Point(130, 241)
+        txtNIM.Name = "txtNIM"
+        txtNIM.Size = New Size(170, 31)
+        txtNIM.TabIndex = 5
         ' 
-        ' Label1
+        ' btnLogin
         ' 
-        Label1.AutoSize = True
-        Label1.Location = New Point(109, 153)
-        Label1.Name = "Label1"
-        Label1.Size = New Size(63, 25)
-        Label1.TabIndex = 4
-        Label1.Text = "Label1"
+        btnLogin.Location = New Point(130, 290)
+        btnLogin.Name = "btnLogin"
+        btnLogin.Size = New Size(100, 32)
+        btnLogin.TabIndex = 6
+        btnLogin.Text = "Login"
+        btnLogin.UseVisualStyleBackColor = True
         ' 
-        ' Label2
+        ' lblRole
         ' 
-        Label2.AutoSize = True
-        Label2.Location = New Point(109, 201)
-        Label2.Name = "Label2"
-        Label2.Size = New Size(63, 25)
-        Label2.TabIndex = 5
-        Label2.Text = "Label2"
+        lblRole.AutoSize = True
+        lblRole.Location = New Point(65, 155)
+        lblRole.Name = "lblRole"
+        lblRole.Size = New Size(55, 25)
+        lblRole.TabIndex = 0
+        lblRole.Text = "Role :"
         ' 
-        ' Label3
+        ' lblNama
         ' 
-        Label3.AutoSize = True
-        Label3.Location = New Point(109, 258)
-        Label3.Name = "Label3"
-        Label3.Size = New Size(63, 25)
-        Label3.TabIndex = 6
-        Label3.Text = "Label3"
+        lblNama.AutoSize = True
+        lblNama.Location = New Point(65, 200)
+        lblNama.Name = "lblNama"
+        lblNama.Size = New Size(68, 25)
+        lblNama.TabIndex = 2
+        lblNama.Text = "Nama :"
+        ' 
+        ' lblNIM
+        ' 
+        lblNIM.AutoSize = True
+        lblNIM.Location = New Point(65, 245)
+        lblNIM.Name = "lblNIM"
+        lblNIM.Size = New Size(55, 25)
+        lblNIM.TabIndex = 4
+        lblNIM.Text = "NIM :"
         ' 
         ' FrmLogin
         ' 
-        AutoScaleDimensions = New SizeF(10F, 25F)
+        AcceptButton = btnLogin
+        AutoScaleDimensions = New SizeF(10.0F, 25.0F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
-        Controls.Add(Label3)
-        Controls.Add(Label2)
-        Controls.Add(Label1)
-        Controls.Add(TextBox2)
-        Controls.Add(TextBox1)
-        Controls.Add(ComboBox1)
-        Controls.Add(PictureBox1)
+        ClientSize = New Size(360, 350)
+        Controls.Add(btnLogin)
+        Controls.Add(txtNIM)
+        Controls.Add(lblNIM)
+        Controls.Add(txtNama)
+        Controls.Add(lblNama)
+        Controls.Add(cmbRole)
+        Controls.Add(lblRole)
+        Controls.Add(picImage)
+        FormBorderStyle = FormBorderStyle.FixedSingle
+        MaximizeBox = False
         Name = "FrmLogin"
-        Text = "Form1"
-        CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()
+        StartPosition = FormStartPosition.CenterScreen
+        Text = "Login"
+        CType(picImage, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
         PerformLayout()
     End Sub
-
-    Friend WithEvents PictureBox1 As PictureBox
-    Friend WithEvents ComboBox1 As ComboBox
-    Friend WithEvents TextBox1 As TextBox
-    Friend WithEvents TextBox2 As TextBox
-    Friend WithEvents Label1 As Label
-    Friend WithEvents Label2 As Label
-    Friend WithEvents Label3 As Label
-
 End Class
