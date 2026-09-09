@@ -33,7 +33,7 @@ Public Class FrmLogin
             Return
         End If
 
-        Dim isStaff As Boolean = (role = "Staff" AndAlso nama.ToLower() = "Nadya" AndAlso nim = "241712051")
+        Dim isStaff As Boolean = (role = "Staff" AndAlso nama.ToLower() = "nadya" AndAlso nim = "241712051")
         Dim isManager As Boolean = (role = "Manager" AndAlso nama.ToLower() = "shata diyaul haq" AndAlso nim = "241712061")
 
         If isStaff OrElse isManager Then
