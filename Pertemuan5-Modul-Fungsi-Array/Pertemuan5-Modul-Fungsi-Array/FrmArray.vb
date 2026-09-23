@@ -13,9 +13,10 @@
 
     Private Sub btnTampilkan_Click(sender As Object, e As EventArgs) Handles btnTampilkan.Click
         'MessageBox.Show(Hitung(txtPanjang.Text, txtLebar.Text))
-        For i As Integer = 0 To nilai.Length - 1
-            lstNilai.Items.Add(nilai(i))
-        Next
+        'For i As Integer = 0 To nilai.Length - 1
+        'lstNilai.Items.Add(nilai(i))
+        'Next
+        MessageBox.Show(nilai2D(1, 2))
     End Sub
 
 

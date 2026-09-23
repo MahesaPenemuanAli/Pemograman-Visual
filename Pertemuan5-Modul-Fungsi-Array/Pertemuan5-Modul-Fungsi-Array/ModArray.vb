@@ -13,4 +13,9 @@
     End Function
 
     Public nilai() As Integer = {50, 60, 70, 80, 90}
+    Public nilai2D(,) As Integer = {
+        {55, 58, 65},
+        {70, 75, 82},
+        {84, 86, 90}
+    }
 End Module
