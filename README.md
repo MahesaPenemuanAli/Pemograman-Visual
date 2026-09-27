@@ -207,6 +207,7 @@ Public Class frmUtama
     End Sub
 End Class
 
+```
 ## Pertemuan 03: Operator, Struktur Kendali, dan Validasi Input
 
 ### Konsep Dasar Operator
@@ -234,8 +235,6 @@ ElseIf kondisiLain Then
 Else
     'Kode jika seluruh kondisi sebelumnya salah
 End If
-```
-
 ### Contoh Implementasi Penilaian
 
 Pada praktikum, nilai ujian digunakan sebagai dasar untuk menentukan gambar yang ditampilkan.
