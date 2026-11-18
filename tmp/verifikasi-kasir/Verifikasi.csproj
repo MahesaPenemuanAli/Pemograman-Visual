@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\241712064_Mahesa Penemuan Ali_PerbaikanResponsi\241712064_Mahesa Penemuan Ali_PerbaikanResponsi\241712064_Mahesa Penemuan Ali_PerbaikanResponsi.vbproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,22 @@
+Option Strict On
+
+Public Module ModTarif
+    Public ReadOnly daftarLayanan As String() = {
+        "Fotokopi", "Print Hitam Putih", "Print Warna", "Jilid"
+    }
+
+    Public Function HargaSatuan(layanan As String) As Decimal
+        Select Case layanan
+            Case "Fotokopi"
+                Return 300D
+            Case "Print Hitam Putih"
+                Return 500D
+            Case "Print Warna"
+                Return 1500D
+            Case "Jilid"
+                Return 5000D
+            Case Else
+                Throw New ArgumentException("Layanan tidak dikenal.", NameOf(layanan))
+        End Select
+    End Function
+End Module

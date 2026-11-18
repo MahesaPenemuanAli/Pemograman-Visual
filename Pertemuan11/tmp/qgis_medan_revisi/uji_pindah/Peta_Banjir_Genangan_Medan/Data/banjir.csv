@@ -1,0 +1,116 @@
+id,kecamatan,lokasi_referensi,latitude,longitude,kejadian
+1,Medan Sunggal,Kampung Lalang,3.601567,98.61786,Banjir/Genangan
+2,Medan Sunggal,Kampung Lalang,3.603127,98.624792,Banjir/Genangan
+3,Medan Sunggal,Kampung Lalang,3.593671,98.616942,Banjir/Genangan
+4,Medan Sunggal,Kampung Lalang,3.600947,98.620393,Banjir/Genangan
+5,Medan Sunggal,Kampung Lalang,3.600441,98.618514,Banjir/Genangan
+6,Medan Sunggal,Kampung Lalang,3.603578,98.624222,Banjir/Genangan
+7,Medan Sunggal,Kampung Lalang,3.600731,98.625445,Banjir/Genangan
+8,Medan Sunggal,Kampung Lalang,3.602136,98.618492,Banjir/Genangan
+9,Medan Sunggal,Kampung Lalang,3.601791,98.618144,Banjir/Genangan
+10,Medan Sunggal,Kampung Lalang,3.603575,98.621325,Banjir/Genangan
+11,Medan Sunggal,Kampung Lalang,3.599853,98.619117,Banjir/Genangan
+12,Medan Sunggal,Kampung Lalang,3.604779,98.620959,Banjir/Genangan
+13,Medan Sunggal,Simpang Manhattan,3.595001,98.614268,Banjir/Genangan
+14,Medan Sunggal,Simpang Manhattan,3.598363,98.616779,Banjir/Genangan
+15,Medan Sunggal,Simpang Manhattan,3.597945,98.617008,Banjir/Genangan
+16,Medan Sunggal,Simpang Manhattan,3.603996,98.614078,Banjir/Genangan
+17,Medan Sunggal,Simpang Manhattan,3.594707,98.612652,Banjir/Genangan
+18,Medan Sunggal,Simpang Manhattan,3.598656,98.619451,Banjir/Genangan
+19,Medan Sunggal,Simpang Manhattan,3.596101,98.612559,Banjir/Genangan
+20,Medan Sunggal,Simpang Manhattan,3.593614,98.617777,Banjir/Genangan
+21,Medan Helvetia,Komplek Perumnas Helvetia,3.613101,98.651901,Banjir/Genangan
+22,Medan Helvetia,Komplek Perumnas Helvetia,3.608171,98.650813,Banjir/Genangan
+23,Medan Helvetia,Komplek Perumnas Helvetia,3.610908,98.650765,Banjir/Genangan
+24,Medan Helvetia,Komplek Perumnas Helvetia,3.61355,98.650783,Banjir/Genangan
+25,Medan Helvetia,Komplek Perumnas Helvetia,3.612876,98.650237,Banjir/Genangan
+26,Medan Helvetia,Komplek Perumnas Helvetia,3.611512,98.65221,Banjir/Genangan
+27,Medan Helvetia,Komplek Perumnas Helvetia,3.6054,98.648881,Banjir/Genangan
+28,Medan Helvetia,Komplek Perumnas Helvetia,3.608854,98.647764,Banjir/Genangan
+29,Medan Helvetia,Komplek Perumnas Helvetia,3.609537,98.655232,Banjir/Genangan
+30,Medan Baru,Jl. Dr. Mansyur,3.56297,98.653889,Banjir/Genangan
+31,Medan Baru,Jl. Dr. Mansyur,3.56011,98.649328,Banjir/Genangan
+32,Medan Baru,Jl. Dr. Mansyur,3.56657,98.652552,Banjir/Genangan
+33,Medan Baru,Jl. Dr. Mansyur,3.568489,98.653277,Banjir/Genangan
+34,Medan Baru,Jl. Dr. Mansyur,3.564779,98.648882,Banjir/Genangan
+35,Medan Baru,Jl. Dr. Mansyur,3.569003,98.64983,Banjir/Genangan
+36,Medan Baru,Jl. Dr. Mansyur,3.561535,98.646533,Banjir/Genangan
+37,Medan Baru,Jl. Dr. Mansyur,3.562782,98.65224,Banjir/Genangan
+38,Medan Timur,Jl. Gaharu / Jl. Bambu,3.598498,98.680417,Banjir/Genangan
+39,Medan Timur,Jl. Gaharu / Jl. Bambu,3.596505,98.678555,Banjir/Genangan
+40,Medan Timur,Jl. Gaharu / Jl. Bambu,3.60019,98.676917,Banjir/Genangan
+41,Medan Timur,Jl. Gaharu / Jl. Bambu,3.599599,98.675683,Banjir/Genangan
+42,Medan Timur,Jl. Gaharu / Jl. Bambu,3.596729,98.676664,Banjir/Genangan
+43,Medan Timur,Jl. Gaharu / Jl. Bambu,3.593815,98.679704,Banjir/Genangan
+44,Medan Timur,Jl. Gaharu / Jl. Bambu,3.596357,98.678044,Banjir/Genangan
+45,Medan Tembung,Jl. Bhayangkara / Jl. Pancing,3.606683,98.705563,Banjir/Genangan
+46,Medan Tembung,Jl. Bhayangkara / Jl. Pancing,3.607329,98.703655,Banjir/Genangan
+47,Medan Tembung,Jl. Bhayangkara / Jl. Pancing,3.603518,98.703721,Banjir/Genangan
+48,Medan Tembung,Jl. Bhayangkara / Jl. Pancing,3.599094,98.698935,Banjir/Genangan
+49,Medan Tembung,Jl. Bhayangkara / Jl. Pancing,3.600371,98.70051,Banjir/Genangan
+50,Medan Tembung,Jl. Bhayangkara / Jl. Pancing,3.606399,98.700831,Banjir/Genangan
+51,Medan Tembung,Jl. Bhayangkara / Jl. Pancing,3.603676,98.708547,Banjir/Genangan
+52,Medan Tembung,Jl. Bhayangkara / Jl. Pancing,3.603753,98.706581,Banjir/Genangan
+53,Medan Tembung,Jl. Bhayangkara / Jl. Pancing,3.601732,98.703281,Banjir/Genangan
+54,Medan Tembung,Jl. Letda Sujono / Bandar Selamat,3.586675,98.708813,Banjir/Genangan
+55,Medan Tembung,Jl. Letda Sujono / Bandar Selamat,3.592941,98.703954,Banjir/Genangan
+56,Medan Tembung,Jl. Letda Sujono / Bandar Selamat,3.59152,98.710832,Banjir/Genangan
+57,Medan Tembung,Jl. Letda Sujono / Bandar Selamat,3.58792,98.704939,Banjir/Genangan
+58,Medan Tembung,Jl. Letda Sujono / Bandar Selamat,3.590252,98.708147,Banjir/Genangan
+59,Medan Tembung,Jl. Letda Sujono / Bandar Selamat,3.590814,98.710076,Banjir/Genangan
+60,Medan Tembung,Jl. Letda Sujono / Bandar Selamat,3.595606,98.709162,Banjir/Genangan
+61,Medan Labuhan,Simpang Kantor,3.718418,98.676627,Banjir/Genangan
+62,Medan Labuhan,Simpang Kantor,3.72277,98.680757,Banjir/Genangan
+63,Medan Labuhan,Simpang Kantor,3.724923,98.677249,Banjir/Genangan
+64,Medan Labuhan,Simpang Kantor,3.727122,98.671839,Banjir/Genangan
+65,Medan Labuhan,Simpang Kantor,3.719761,98.672757,Banjir/Genangan
+66,Medan Labuhan,Simpang Kantor,3.720636,98.671182,Banjir/Genangan
+67,Medan Belawan,Simpang Canang,3.746223,98.678222,Banjir/Genangan
+68,Medan Belawan,Simpang Canang,3.738852,98.675445,Banjir/Genangan
+69,Medan Belawan,Simpang Canang,3.745097,98.681933,Banjir/Genangan
+70,Medan Belawan,Simpang Canang,3.750989,98.689199,Banjir/Genangan
+71,Medan Belawan,Simpang Canang,3.74545,98.675537,Banjir/Genangan
+72,Medan Belawan,Simpang Canang,3.736538,98.679937,Banjir/Genangan
+73,Medan Marelan,Marelan Raya,3.681155,98.649546,Banjir/Genangan
+74,Medan Marelan,Marelan Raya,3.681858,98.650507,Banjir/Genangan
+75,Medan Marelan,Marelan Raya,3.687731,98.65155,Banjir/Genangan
+76,Medan Marelan,Marelan Raya,3.683445,98.647375,Banjir/Genangan
+77,Medan Marelan,Marelan Raya,3.678139,98.649298,Banjir/Genangan
+78,Medan Marelan,Marelan Raya,3.683812,98.657188,Banjir/Genangan
+79,Medan Marelan,Marelan Raya,3.684456,98.65444,Banjir/Genangan
+80,Medan Marelan,Marelan Raya,3.682252,98.646853,Banjir/Genangan
+81,Medan Maimun,Jl. Letjend Suprapto / Kampung Aur,3.571122,98.679462,Banjir/Genangan
+82,Medan Maimun,Jl. Letjend Suprapto / Kampung Aur,3.58195,98.679125,Banjir/Genangan
+83,Medan Maimun,Jl. Letjend Suprapto / Kampung Aur,3.577435,98.67884,Banjir/Genangan
+84,Medan Maimun,Jl. Letjend Suprapto / Kampung Aur,3.577761,98.683347,Banjir/Genangan
+85,Medan Maimun,Jl. Letjend Suprapto / Kampung Aur,3.573952,98.681857,Banjir/Genangan
+86,Medan Maimun,Jl. Letjend Suprapto / Kampung Aur,3.572208,98.683561,Banjir/Genangan
+87,Medan Maimun,Jl. Letjend Suprapto / Kampung Aur,3.572908,98.67771,Banjir/Genangan
+88,Medan Maimun,Jl. Letjend Suprapto / Kampung Aur,3.570027,98.682604,Banjir/Genangan
+89,Medan Johor,Jl. Karya Bakti / Pangkalan Mansyur,3.543527,98.66656,Banjir/Genangan
+90,Medan Johor,Jl. Karya Bakti / Pangkalan Mansyur,3.537585,98.667,Banjir/Genangan
+91,Medan Johor,Jl. Karya Bakti / Pangkalan Mansyur,3.542571,98.666768,Banjir/Genangan
+92,Medan Johor,Jl. Karya Bakti / Pangkalan Mansyur,3.536562,98.669872,Banjir/Genangan
+93,Medan Johor,Jl. Karya Bakti / Pangkalan Mansyur,3.539501,98.671375,Banjir/Genangan
+94,Medan Johor,Jl. Karya Bakti / Pangkalan Mansyur,3.538641,98.661714,Banjir/Genangan
+95,Medan Petisah,Jl. Tinta / Ayahanda,3.584211,98.667778,Banjir/Genangan
+96,Medan Petisah,Jl. Tinta / Ayahanda,3.595033,98.661372,Banjir/Genangan
+97,Medan Petisah,Jl. Tinta / Ayahanda,3.587659,98.667115,Banjir/Genangan
+98,Medan Petisah,Jl. Tinta / Ayahanda,3.585125,98.658868,Banjir/Genangan
+99,Medan Petisah,Jl. Tinta / Ayahanda,3.591252,98.660619,Banjir/Genangan
+100,Medan Petisah,Jl. Tinta / Ayahanda,3.588982,98.661428,Banjir/Genangan
+101,Medan Petisah,Jl. Gatot Subroto,3.588182,98.665926,Banjir/Genangan
+102,Medan Petisah,Jl. Gatot Subroto,3.587317,98.663254,Banjir/Genangan
+103,Medan Petisah,Jl. Gatot Subroto,3.579824,98.660829,Banjir/Genangan
+104,Medan Petisah,Jl. Gatot Subroto,3.584049,98.656734,Banjir/Genangan
+105,Medan Petisah,Jl. Gatot Subroto,3.583926,98.659831,Banjir/Genangan
+106,Medan Polonia,Kawasan Polonia,3.571206,98.670358,Banjir/Genangan
+107,Medan Polonia,Kawasan Polonia,3.568107,98.673305,Banjir/Genangan
+108,Medan Polonia,Kawasan Polonia,3.566853,98.67851,Banjir/Genangan
+109,Medan Polonia,Kawasan Polonia,3.569883,98.679681,Banjir/Genangan
+110,Medan Polonia,Kawasan Polonia,3.567459,98.672564,Banjir/Genangan
+111,Medan Denai,Kawasan Medan Denai,3.567216,98.707849,Banjir/Genangan
+112,Medan Denai,Kawasan Medan Denai,3.568618,98.703205,Banjir/Genangan
+113,Medan Denai,Kawasan Medan Denai,3.568317,98.707799,Banjir/Genangan
+114,Medan Denai,Kawasan Medan Denai,3.576811,98.713569,Banjir/Genangan
+115,Medan Denai,Kawasan Medan Denai,3.565014,98.705994,Banjir/Genangan

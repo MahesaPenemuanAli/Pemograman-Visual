@@ -1,0 +1,108 @@
+Verifikasi assembly aplikasi Tugas 08: 107 pemeriksaan lulus. Tanggal lokal: 2026-10-31 15:55
+LULUS 1: DataTable -> BindingSource -> DataGridView
+LULUS 2: Enam kolom dengan tipe data yang sesuai
+LULUS 3: Empat kategori terwakili
+LULUS 4: Minimal dua buku stok nol
+LULUS 5: Properti wajib grid
+LULUS 6: Kolom Fill dan judul lebih lebar
+LULUS 7: Header dan perataan kolom
+LULUS 8: Kategori memakai DropDownList
+LULUS 9: BindingSource dan grid menampilkan 10 hasil
+LULUS 10: Label jumlah: 10/10
+LULUS 11: Total stok hasil = 40
+LULUS 12: Form kosong ditolak
+LULUS 13: ErrorProvider pada txtKodeBuku
+LULUS 14: ErrorProvider pada txtJudul
+LULUS 15: ErrorProvider pada txtPenulis
+LULUS 16: ErrorProvider pada cboKategori
+LULUS 17: ErrorProvider pada txtTahun
+LULUS 18: ErrorProvider pada txtStok
+LULUS 19: Format kode ditolak: BK12
+LULUS 20: Format kode ditolak: BK12345
+LULUS 21: Format kode ditolak: BK12A4
+LULUS 22: Format kode ditolak: AB0011
+LULUS 23: Format kode ditolak: BK１２３４
+LULUS 24: Format kode ditolak: 
+LULUS 25: Format kode ditolak: BK-011
+LULUS 26: Kode ganda diperiksa pada seluruh tabel meskipun tersembunyi
+LULUS 27: Tahun tidak valid ditolak: 1899
+LULUS 28: Tahun tidak valid ditolak: 2027
+LULUS 29: Tahun tidak valid ditolak: abc
+LULUS 30: Tahun tidak valid ditolak: 2020.5
+LULUS 31: Tahun tidak valid ditolak: 999999999999999999
+LULUS 32: Tahun tidak valid ditolak: 
+LULUS 33: Stok tidak valid ditolak: -1
+LULUS 34: Stok tidak valid ditolak: 2.5
+LULUS 35: Stok tidak valid ditolak: abc
+LULUS 36: Stok tidak valid ditolak: 2147483648
+LULUS 37: Stok tidak valid ditolak: 
+LULUS 38: Judul/penulis spasi dan kategori kosong ditolak
+LULUS 39: Batas tahun 1900 dan stok 0 diterima
+LULUS 40: Tahun saat ini dan batas Integer diterima
+LULUS 41: Tambah berhasil, kode dinormalisasi dan teks di-Trim
+LULUS 42: Isian dibersihkan setelah tambah
+LULUS 43: BindingSource dan grid menampilkan 11 hasil
+LULUS 44: Label jumlah: 11/11
+LULUS 45: Total stok hasil = 44
+LULUS 46: Tambah kode ganda dibatalkan tanpa menambah baris
+LULUS 47: Bersihkan menghapus error tanpa menghapus data
+LULUS 48: BindingSource dan grid menampilkan 2 hasil
+LULUS 49: Label jumlah: 2/11
+LULUS 50: Total stok hasil = 8
+LULUS 51: Ekspresi gabungan memakai kurung OR dan AND kategori
+LULUS 52: BindingSource dan grid menampilkan 1 hasil
+LULUS 53: Label jumlah: 1/11
+LULUS 54: Total stok hasil = 0
+LULUS 55: BindingSource dan grid menampilkan 1 hasil
+LULUS 56: Label jumlah: 1/11
+LULUS 57: Total stok hasil = 8
+LULUS 58: BindingSource dan grid menampilkan 0 hasil
+LULUS 59: Label jumlah: 0/11
+LULUS 60: Total stok hasil = 0
+LULUS 61: BindingSource dan grid menampilkan 0 hasil
+LULUS 62: Label jumlah: 0/11
+LULUS 63: Total stok hasil = 0
+LULUS 64: Karakter khusus dibaca literal tanpa error: [
+LULUS 65: Karakter khusus dibaca literal tanpa error: ]
+LULUS 66: Karakter khusus dibaca literal tanpa error: *
+LULUS 67: Karakter khusus dibaca literal tanpa error: %
+LULUS 68: Karakter khusus dibaca literal tanpa error: [%]*'
+LULUS 69: Karakter khusus dibaca literal tanpa error: ' OR Stok >= 0 OR Judul LIKE '
+LULUS 70: BindingSource dan grid menampilkan 11 hasil
+LULUS 71: Label jumlah: 11/11
+LULUS 72: Total stok hasil = 44
+LULUS 73: BindingSource dan grid menampilkan 2 hasil
+LULUS 74: Label jumlah: 2/11
+LULUS 75: Total stok hasil = 0
+LULUS 76: BindingSource dan grid menampilkan 2 hasil
+LULUS 77: Label jumlah: 2/11
+LULUS 78: Total stok hasil = 10
+LULUS 79: BindingSource dan grid menampilkan 1 hasil
+LULUS 80: Label jumlah: 1/12
+LULUS 81: Total stok hasil = 1
+LULUS 82: Tambah mempertahankan binding yang sama
+LULUS 83: Pencarian literal menemukan buku: '
+LULUS 84: Pencarian literal menemukan buku: O'Neil
+LULUS 85: Pencarian literal menemukan buku: [
+LULUS 86: Pencarian literal menemukan buku: ]
+LULUS 87: Pencarian literal menemukan buku: *
+LULUS 88: Pencarian literal menemukan buku: %
+LULUS 89: Pencarian literal menemukan buku: [A]*100%
+LULUS 90: BindingSource dan grid menampilkan 0 hasil
+LULUS 91: Label jumlah: 0/12
+LULUS 92: Total stok hasil = 0
+LULUS 93: BindingSource dan grid menampilkan 0 hasil
+LULUS 94: Label jumlah: 0/13
+LULUS 95: Total stok hasil = 0
+LULUS 96: Tambah tetap tersimpan ketika tidak cocok dengan filter
+LULUS 97: BindingSource dan grid menampilkan 13 hasil
+LULUS 98: Label jumlah: 13/13
+LULUS 99: Total stok hasil = 2147483692
+LULUS 100: Bonus urut judul A-Z
+LULUS 101: Bonus urut tahun terbaru
+LULUS 102: Bonus urut stok terbanyak
+LULUS 103: BindingSource dan grid menampilkan 1 hasil
+LULUS 104: Label jumlah: 1/13
+LULUS 105: Total stok hasil = 0
+LULUS 106: Pengurutan tetap aktif saat filter berubah
+LULUS 107: Urutan awal mengembalikan urutan penambahan
